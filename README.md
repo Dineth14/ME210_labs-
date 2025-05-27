@@ -1,2 +1,2 @@
 # ME210_labs
-ME210_lab_documents
+thid contains ME210 lab calculations that were completed using python
